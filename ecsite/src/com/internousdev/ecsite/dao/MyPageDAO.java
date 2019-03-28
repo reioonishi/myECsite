@@ -77,4 +77,3 @@ public class MyPageDAO {
 	}
 
 }
-//6h-8p

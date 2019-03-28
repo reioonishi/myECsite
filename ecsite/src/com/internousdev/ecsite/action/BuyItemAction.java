@@ -43,4 +43,3 @@ public class BuyItemAction extends ActionSupport implements SessionAware {
 	}
 
 }
-//5h-23p

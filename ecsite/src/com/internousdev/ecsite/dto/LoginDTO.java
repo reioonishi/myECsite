@@ -35,5 +35,3 @@ public class LoginDTO {
 	}
 
 }
-
-//3h-20p-22p

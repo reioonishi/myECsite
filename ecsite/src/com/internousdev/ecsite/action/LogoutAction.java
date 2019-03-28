@@ -17,5 +17,3 @@ public void setSession(Map<String, Object> session) {
 	this.session = session;
 }
 }
-
-//6h-6p

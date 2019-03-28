@@ -9,7 +9,6 @@ public class MyPageDTO {
 	public String id;
 	public String insert_date;
 
-
 	public String getItemName() {
 		return itemName;
 	}
@@ -55,4 +54,3 @@ public class MyPageDTO {
 	}
 
 }
-//6h-14

@@ -55,7 +55,3 @@ public class LoginAction extends ActionSupport implements SessionAware{
 		this.session = session;
 	}
 }
-
-
-
-//3h-21p

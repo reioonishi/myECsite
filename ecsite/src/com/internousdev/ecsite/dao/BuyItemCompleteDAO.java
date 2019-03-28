@@ -37,5 +37,3 @@ public class BuyItemCompleteDAO {
 	}
 
 }
-
-//5h-40p

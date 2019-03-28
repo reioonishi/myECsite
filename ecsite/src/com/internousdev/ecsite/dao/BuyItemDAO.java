@@ -35,7 +35,3 @@ public class BuyItemDAO {
 	}
 
 }
-
-
-
-//3h-6

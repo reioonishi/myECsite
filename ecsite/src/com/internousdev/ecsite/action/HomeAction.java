@@ -31,4 +31,3 @@ public class HomeAction extends ActionSupport implements SessionAware{
 		return this.session;
 	}
 }
-//5h-3

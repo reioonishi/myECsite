@@ -28,8 +28,3 @@ public class BuyItemConfirmAction extends ActionSupport implements SessionAware{
 		this.session = session;
 	}
 }
-
-
-
-
-//5h-37p

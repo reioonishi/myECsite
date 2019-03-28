@@ -44,6 +44,3 @@ public class LoginDAO {
 		return loginDTO;
 	}
 }
-
-
-//3h-23p-26p

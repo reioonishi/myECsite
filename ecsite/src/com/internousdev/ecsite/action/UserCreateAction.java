@@ -8,7 +8,3 @@ public class UserCreateAction extends ActionSupport{
 	}
 
 }
-
-
-
-//4h-4p

@@ -32,7 +32,6 @@ private String message;
 		return result;
 	}
 
-
 public void delete() throws SQLException{
 
 	String item_transaction_id = session.get("id").toString();
@@ -63,6 +62,3 @@ public void setMessage(String message) {
 	this.message = message;
 }
 }
-
-
-//6h-3

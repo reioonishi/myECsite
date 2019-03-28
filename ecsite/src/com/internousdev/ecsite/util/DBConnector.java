@@ -25,4 +25,3 @@ public class DBConnector {
 		}
 
 	}
-//2h14p
